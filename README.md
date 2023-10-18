@@ -1,3 +1,5 @@
+# Integrating GIS Remote Sensing and Machine Learning to monitor urban expansion
+
 ## To reproduce the results: 
 
 Make sure to download the dataset from http://dx.doi.org/10.17632/hkfxnm2xpk.1 and change the paths in the scripts.
