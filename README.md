@@ -1,6 +1,6 @@
 # Integrating GIS Remote Sensing and Machine Learning to monitor urban expansion
 
-![luanda_urban](luanda_urban.gif)
+<kbd><img src="luanda_urban.gif" alt="luanda_urban" width="400"/></kbd>
 
 ## To reproduce the results: 
 
