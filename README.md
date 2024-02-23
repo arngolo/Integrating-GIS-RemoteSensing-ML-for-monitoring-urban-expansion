@@ -4,11 +4,12 @@
 
 Make sure to download the dataset from http://dx.doi.org/10.17632/hkfxnm2xpk.1 and change the paths in the scripts.
 
-## arcgis toolbox
+## arcgis toolbox & QGIS plugin
 
-As part of this research, an arcGIS toolbox was developed:
+As part of this research, an arcGIS toolbox and a QGIS plugin were developed:
 
-[pqkmeans-arctoolbox](https://github.com/arngolo/pqkmeans-arctoolbox)
+[pqkmeans-arctoolbox](https://github.com/arngolo/pqkmeans-arctoolbox)  
+[pqkmeans-qgis-plugin](https://github.com/arngolo/pqkmeans-qgis-plugin)  
 
 ### Citation: 
 
