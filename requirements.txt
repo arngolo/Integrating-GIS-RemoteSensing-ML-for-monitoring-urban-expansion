@@ -1,0 +1,12 @@
+#WINDOWS 10 REQUIREMENTS
+# check installed python versions (where python)
+# create a python 10 venv: C:\Python310\python.exe -m venv hlc_cloud_optimazed_geotiff
+
+numpy
+matplotlib
+rasterio
+pqkmeans
+pandas
+scikit-learn # for KMeans
+jupyter
+pillow
